@@ -1,11 +1,13 @@
-<h2>contextExample</h2>
+<h2>About</h2>
 
 React-Native application that simulates user authentication using the context API. Typescript, react Hooks, react-navigation, async-storage and others were used.
 This application was developed by [Thiago Marinho](https://blog.rocketseat.com.br/autenticacao-no-react-native-reactjs-com-context-api-hooks/) on the RocketSeat blog.
 
 <p align="center">
- <a href="#technologies">Technologies</a> | <a href="#started">Getting started</a> | <a href="#license">License</a>
+ <a href="#screens">Screens</a> | <a href="#technologies">Technologies</a> | <a href="#started">Getting started</a> | <a href="#license">License</a>
 </p>
+
+<h2 id="screens">Screens</h2>
 
 <p align="center">
   <img width="50%" src="https://media.giphy.com/media/ySESLEKailKtnkNWnj/giphy.gif">

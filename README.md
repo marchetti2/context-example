@@ -40,7 +40,7 @@ This application was developed by [Thiago Marinho](https://blog.rocketseat.com.b
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/marchetti2/contextExample.git && cd contextExample
+$ git clone https://github.com/marchetti2/context-example.git && cd context-example
 ```
 
 **Install the dependencies**
